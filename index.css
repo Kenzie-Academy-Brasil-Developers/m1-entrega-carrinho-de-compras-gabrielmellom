@@ -1,0 +1,83 @@
+
+.container{
+
+    border: 1px; color: black;
+    border-radius: 12px;
+    background-color: rgb(220, 234, 234);
+    width: 45vh;
+    height: 42vh;
+    margin-left: 35%;
+    margin-top: none;
+    display: flex;
+    justify-content: space-between;
+   
+   
+
+}
+
+
+.H1{
+    padding-top: 16px;
+    word-spacing: 254px;
+    margin-top: 220px;
+    width: 45vh;
+    height: 37px;
+    margin-left: 35%;;
+    border-radius: 12px;
+    background-color: rgb(3, 14, 8);
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+
+
+
+}
+
+.div1{
+    width: 45vh;
+    height: 42vh;
+    border: 1px; color: black;
+}
+
+.ulvalor{
+padding-right: 40px;
+text-decoration: none;
+
+}
+.valor{
+    text-decoration: none;
+    list-style-type: none;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 29px;
+    font-weight: bold
+    
+}
+.lista{
+    margin-top: 29px;    
+    list-style-type: none;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold
+}
+
+.botao{
+    width: 43vh;
+    height: 50px;
+    margin-left: 35.6%;
+    border-radius: 12px;
+    background-color: rgb(65, 232, 149);
+    border:  none;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+
+.botao:hover{
+
+background-color: rgb(19, 20, 20);
+transition: all 0.7s ease-in;
+
+}
